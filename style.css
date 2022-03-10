@@ -17,6 +17,7 @@ h2 {
   height: 600px;
   width: 900px;
   text-align: center;
+  background-color: blue;
 }
 .box {
   margin: 0px;
@@ -33,4 +34,12 @@ button {
   height: 50px;
   width: 200px;
   border-radius: 50px;
+}
+.red {
+  background-color: red;
+  border-radius: 65px;
+}
+.yellow {
+  background-color: yellow;
+  border-radius: 65px;
 }
