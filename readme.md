@@ -21,4 +21,5 @@ The objective is to create a game using what i have learned. JS, CSS, HTML. This
 ## Resources
 
 ## Backup
+
 - my backup choice would be an easy card game like blackjack. where player one and two both battle to see who can get closer to 21 without going over. i feel this is anoter simple project with logic that should not be too hard or complex.
