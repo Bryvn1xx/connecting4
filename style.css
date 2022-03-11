@@ -22,7 +22,7 @@ h3 {
   height: 600px;
   width: 900px;
   text-align: center;
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.875);
 }
 .box {
   margin: 0px;
@@ -34,14 +34,14 @@ h3 {
   border-radius: 65px;
   height: 65px;
   width: 65px;
-  background-color: grey;
+  background-color: rgba(128, 128, 128, 0.745);
 }
 button {
   height: 50px;
   width: 200px;
   border-radius: 50px;
   color: white;
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.608);
   border: 1px solid white;
 }
 .red {
