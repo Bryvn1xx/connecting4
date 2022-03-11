@@ -1,6 +1,6 @@
 # Connect 4
 
-## Date: March 6, 2022
+## Date: March 11, 2022
 
 ## By: Bryan Sanchez
 
@@ -22,7 +22,7 @@ The objective is to create a game using what i have learned. JS, CSS, HTML. This
 - the game will alternate between players after each click of a cell, when a player is able to click 4 boxes ina row, they win
 - when they win, Winner will be prompted on the screen
 
-## Basic elements of game
+## Basic Elements of Game
 
 - landing page
 - title
