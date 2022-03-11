@@ -2,7 +2,7 @@
 
 ## Date: March 6, 2022
 
-## By: Bryan Sanchez [Github](https://github.com/Bryvn1xx?tab=repositories)
+## By: Bryan Sanchez [Github](https://github.com/Bryvn1xx?tab=repositories) | [Trello](https://trello.com/b/g0UBzGR5/connect-4)
 
 ![Image](https://media.kohlsimg.com/is/image/kohls/1725763?wid=1200&hei=1200&op_sharpen=1)
 
@@ -36,8 +36,8 @@ To summarize this project, i used html, javascript, and css to create a connect 
 
 ## Resources
 
-[ClassWiki](https://github.com/SEI-R-2-22/class_wiki)
-[Flexbox-froggy](https://flexboxfroggy.com/)
+- [ClassWiki](https://github.com/SEI-R-2-22/class_wiki)
+- [Flexbox-froggy](https://flexboxfroggy.com/)
 
 ## Backup
 
