@@ -22,7 +22,7 @@ The objective is to create a game using what i have learned. JS, CSS, HTML. This
 - the game will alternate between players after each click of a cell, when a player is able to click 4 boxes ina row, they win
 - when they win, Winner will be prompted on the screen
 
-## basic elements of game
+## Basic elements of game
 
 - landing page
 - title
@@ -34,7 +34,7 @@ The objective is to create a game using what i have learned. JS, CSS, HTML. This
 - check board function
 - grid cell checker
 
-## summary
+## Summary
 
 To summarize this project, i used html, javascript, and css to create a connect 4 game that is fully functional & deploy it online. during this project i came accross a several issues that made it difficult for me to continue. one thing that really helped me was thinking out my code before i type it, i realized that anything can be achieved using code. most tasks in real life that you want to implement in a program are basically just a longer list of smaller tasks that equte to that, and thinking in this way helped me get a better understanding of what is goin on, and with practice of syntax, fixing errors became less frustrating and less feeling like i hit a wall, and feeling more like a riddle im trying to translate to the computer. Overall this project was a huge learning experience for me and i feel slightly better coding than i did before.
 
