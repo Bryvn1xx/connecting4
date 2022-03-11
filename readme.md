@@ -42,7 +42,3 @@ To summarize this project, i used html, javascript, and css to create a connect 
 
 - [ClassWiki](https://github.com/SEI-R-2-22/class_wiki)
 - [Flexbox-froggy](https://flexboxfroggy.com/)
-
-## Backup
-
-- my backup choice would be an easy card game like blackjack. where player one and two both battle to see who can get closer to 21 without going over. i feel this is anoter simple project with logic that should not be too hard or complex.
