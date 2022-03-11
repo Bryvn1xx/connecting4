@@ -2,14 +2,17 @@ h1 {
   font-size: 100px;
   color: white;
 }
+
 h2 {
   font-size: 100px;
   color: white;
 }
+
 h3 {
   font-size: 50px;
   color: white;
 }
+
 .grid {
   display: grid;
   grid-template-columns: repeat(7, 14.28%);
@@ -24,6 +27,7 @@ h3 {
   text-align: center;
   background-color: rgba(0, 0, 255, 0.875);
 }
+
 .box {
   margin: 0px;
   padding: 0px;
@@ -36,6 +40,7 @@ h3 {
   width: 65px;
   background-color: rgba(128, 128, 128, 0.745);
 }
+
 button {
   height: 50px;
   width: 200px;
@@ -44,21 +49,26 @@ button {
   background-color: rgba(0, 0, 255, 0.834);
   border: 1px solid white;
 }
+
 .red {
   background-color: red;
   border-radius: 65px;
 }
+
 .yellow {
   background-color: yellow;
   border-radius: 65px;
 }
+
 .who-won {
   height: 10px;
   width: 20px;
 }
+
 body {
   background-image: url('https://cdnb.artstation.com/p/assets/images/images/015/677/407/original/bogdan-mb0sco-school-class-class-animated.gif?1549221195');
 }
+
 a {
   font-size: 60px;
 }
