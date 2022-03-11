@@ -99,7 +99,7 @@ for (let i = 0; i < box.length; i++) {
   )
 }
 
-//check winner
+//check winner function
 function checkWin() {
   for(let i = 0; i < winnerCombo.length; i++) {
     const combo = winnerCombo[i]
