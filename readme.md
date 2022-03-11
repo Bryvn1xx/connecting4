@@ -6,7 +6,7 @@
 
 - [Github](https://github.com/Bryvn1xx?tab=repositories)
 - [Trello](https://trello.com/b/g0UBzGR5/connect-4)
-- [Surge](calculating-geese.surge.sh)
+- [Surge](grateful-plants.surge.sh)
 
 ![Image](https://media.kohlsimg.com/is/image/kohls/1725763?wid=1200&hei=1200&op_sharpen=1)
 
