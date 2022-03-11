@@ -1,15 +1,15 @@
 
-//// global variables
+// global variables
 const grid = document.querySelectorAll('.grid')
 const box = document.querySelectorAll('.box')
 const restartBtn = document.querySelector('button')
 let playerOne = []
 let playerTwo = []
 
-///turn selector
+//turn selector
 let whosTurn = 0;
 
-/// winning combos
+// winning combos
 const winnerCombo = [
   [0, 1, 2, 3],
     [41, 40, 39, 38],
@@ -82,7 +82,7 @@ const winnerCombo = [
     [13, 20, 27, 34],
 ]
 
-////// listens for click, makes p1 red, p2 yellow
+// listens for click, makes p1 red, p2 yellow
 for (let i = 0; i < box.length; i++) {
   box[i].addEventListener('click', () => {
     whosTurn++
@@ -125,11 +125,11 @@ function checkWin() {
     }
   }
 }
+
 checkWin()
 
 // restart button
   restartBtn.addEventListener('click', () => {
   location.reload();
 });
-//////
 
