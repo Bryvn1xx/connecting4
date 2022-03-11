@@ -16,23 +16,23 @@ The objective is to create a game using what i have learned. JS, CSS, HTML. This
 
 ## Plans
 
-- i plan on using somewhat the same concepts we have learned creating the tic tac toe game.
-- the concept is simillar, but the grid will be larger, and the rules behind the game will be slightly different.
-- there will be 7 collumns of 6 cells, when a cell is clicked it will turn (red/blue) depending on the player that clicked it.
-- the game will alternate between players after each click of a cell, when a player is able to click 4 boxes ina row, they win
-- when they win, Winner will be prompted on the screen
+- I plan on using somewhat the same concepts we have learned creating the tic tac toe game.
+- The concept is simillar, but the grid will be larger, and the rules behind the game will be slightly different.
+- There will be 7 collumns of 6 cells, when a cell is clicked it will turn (red/blue) depending on the player that clicked it.
+- The game will alternate between players after each click of a cell, when a player is able to click 4 boxes ina row, they win
+- When they win, Winner will be prompted on the screen
 
 ## Basic Elements of Game
 
-- landing page
-- title
-- gameboard
-- game chips
-- restart button
-- winning array
-- eventlisteners
-- check board function
-- grid cell checker
+- Landing page
+- Title
+- Gameboard
+- Game chips
+- Restart button
+- Winning array
+- Eventlisteners
+- Check board function
+- Grid cell checker
 
 ## Summary
 
