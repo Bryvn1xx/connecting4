@@ -3,8 +3,6 @@
 const grid = document.querySelectorAll('.grid')
 const box = document.querySelectorAll('.box')
 const restartBtn = document.querySelector('button')
-const score = document.querySelector('score')
-let whoWon = document.querySelector('who-won')
 let playerOne = []
 let playerTwo = []
 
@@ -84,33 +82,24 @@ const winnerCombo = [
     [13, 20, 27, 34],
 ]
 
-//check winner
-
 ////// listens for click, makes p1 red, p2 yellow
 for (let i = 0; i < box.length; i++) {
   box[i].addEventListener('click', () => {
     whosTurn++
     if (whosTurn % 2) {
-      // box[i].style.background = 'red'
       box[i].classList.add('red')
       playerOne.push(i)
       checkWin()
     } else {
-      // box[i].style.background = 'yellow'
       box[i].classList.add('yellow')
       playerTwo.push(i)
       checkWin()
+      }
     }
-  })
+  )
 }
-///
-
-
-
-
 
 //check winner
-
 function checkWin() {
   for(let i = 0; i < winnerCombo.length; i++) {
     const combo = winnerCombo[i]
@@ -124,7 +113,6 @@ function checkWin() {
     boxThree.classList.contains('yellow') &&
     boxFour.classList.contains('yellow')
   ){
-    console.log('yellow wins')
     alert('Yellow Wins!')
 
   } if(
@@ -133,14 +121,15 @@ function checkWin() {
     boxThree.classList.contains('red') &&
     boxFour.classList.contains('red')
     ) {
-    console.log('red wins')
     alert('Red Wins!')
-}}}
+    }
+  }
+}
 checkWin()
 
-
-restartBtn.addEventListener('click', () => {
-location.reload();
+// restart button
+  restartBtn.addEventListener('click', () => {
+  location.reload();
 });
 //////
 
